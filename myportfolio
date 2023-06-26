@@ -77,11 +77,11 @@
     </form>
 </section>
     <br>
-<section>
+<footer>
     <div class="footer">
     <p>My portfolio 2023 &copy;    
     <a href="#top">back top page</a>
 </div>
-</section>
+</footer>
 </body>
 </html>
